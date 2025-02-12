@@ -6,8 +6,8 @@
 
 # 시연 영상
 
-
-
+[![YouTube](http://i.ytimg.com/vi/wLlqcjY4yuM/hqdefault.jpg)](https://www.youtube.com/watch?v=wLlqcjY4yuM)
+(클릭 시 이동)
 ## 목차
 - [소개](#소개)
 - [필요 준비물](#필요-준비물)
